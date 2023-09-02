@@ -1,1 +1,1 @@
-#My codewars solution repo
+My codewars solution repo
