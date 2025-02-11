@@ -6,3 +6,4 @@ def to_camel_case(text):
 
 
 print(to_camel_case("the-stealth-warrior"))
+print(to_camel_case("the-stealth_warrior"))
